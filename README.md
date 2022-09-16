@@ -4,7 +4,7 @@
 
 Projeto construído do evento Nextel Level Week da RocketSeat
 
-🔗  [Clique aqui para acessar](https//:lopesmtt.github.io/NLW-Esports)
+🔗  [Clique aqui para acessar](https//:lopesmtt.github.io/NLW-Esports/)
 
 ## 😎 Tecnologias 
 
